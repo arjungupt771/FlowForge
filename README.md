@@ -207,5 +207,3 @@ If deploying Trigger.dev tasks (`EXECUTION_MODE=trigger`), note that `trigger.co
 - [x] Workflow export/import as JSON
 - [x] TypeScript strict mode
 - [x] Ready to deploy on Vercel
-#   F l o w F o r g e  
- 

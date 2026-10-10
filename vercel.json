@@ -1,0 +1,10 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "functions": {
+    "app/api/workflows/[id]/execute/route.ts": {
+      "maxDuration": 60
+    }
+  }
+}
